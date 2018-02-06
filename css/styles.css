@@ -3,12 +3,12 @@ body {
 }
 
 .nt {
-  font-family: 'Merriweather', serif;
+  font-family: 'Helvetica', serif;
   font-weight: 400;
 }
 
 .ms {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-weight: normal;
 }
 
@@ -17,7 +17,7 @@ p {
   letter-spacing: .05em;
   margin: 0;
   color: #515e65;
-  font-family: 'Merriweather', serif;
+  font-family: 'Helvetica', serif;
   font-weight: 300;
 }
 
@@ -92,7 +92,7 @@ hr.thin {
 }
 
 ul.dashed > li {
-  font-family: 'Merriweather', serif;
+  font-family: 'Helvetica', serif;
   font-weight: 300;
   text-indent: -5px;
   letter-spacing: .05em;
